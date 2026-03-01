@@ -2,7 +2,7 @@
   (:require
    [org.httpkit.client :as hk-client]
    [jsonista.core :as j]
-   [java-time :as jt]
+   [java-time.api :as jt]
    [nextjournal.clerk :as clerk])
   (:gen-class))
 
